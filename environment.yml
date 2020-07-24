@@ -8,3 +8,4 @@ dependencies:
   - pandas-datareader
   - scipy
   - urllib3
+  - xlrd

@@ -2,10 +2,12 @@ name: usdrub-oil-environment
 channels:
   - conda-forge
 dependencies:
+  - beautifulsoup4
   - matplotlib
   - numpy
   - pandas
   - pandas-datareader
+  - requests
   - scipy
   - urllib3
   - xlrd

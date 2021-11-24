@@ -10,4 +10,4 @@ dependencies:
   - requests
   - scipy
   - urllib3
-  - xlrd
+  - openpyxl
